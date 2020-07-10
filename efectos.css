@@ -1,0 +1,138 @@
+body
+{
+background: linear-gradient(#e6208d,#e34fa1,#9698e0,#2d30b5);
+color:lightcyan;
+font-size:18pt;
+font-weight:bold;
+font-family:Kristen ITC;
+}
+
+
+.enca_chico
+{
+    background-color: midnightblue;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    color:white;
+    font-family:Kristen ITC;
+    font-size:16pt;
+    font-weight:bold;
+    text-shadow: 3px 3px black;
+    width:70%;
+}
+
+.enca_mediano
+{
+    background-color: #ff0040;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    color:white;
+    font-family:Kristen ITC;
+    font-size:20pt;
+    font-weight:bold;
+    text-shadow: 3px 3px black;
+    width:80%;
+}
+
+.enca_grande
+{
+    background-color: aqua;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    color:white;
+    font-family:Kristen ITC;
+    font-size:40pt;
+    font-weight:bold;
+    text-shadow: 3px 3px black;
+    width:90%;
+}
+
+.imagenes
+{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    height: 250px;
+    width:auto300px;
+}
+
+.campo
+{
+    border-radius: 5px;   
+    color: white;
+    font-size: 24pt;
+    font-weight: bold;
+    text-align: center; 
+     font-family:Kristen ITC;
+}
+.pares
+{
+    background-color: #ffe882;
+    border-radius: 5px;   
+    color: #4185af;
+    font-size: 24pt;
+    font-weight: bold;
+    text-align: center; 
+     font-family:Kristen ITC;
+    height:80px;
+}
+.titulo
+{
+    border-radius: 5px;   
+    color: white;
+    font-size: 22pt;
+    font-weight: bold;
+    text-align: center; 
+    font-family:Kristen ITC;
+}
+.turno
+{
+    background-color: lightgreen;  
+    color: black;
+    font-size: 28pt;
+    font-weight: bold;
+    text-align: center;
+    width:700px;;
+    height:85px;
+    font-family:Kristen ITC;
+}
+.mensaje
+{
+    background-color: white;  
+    color: black;
+    font-size: 24pt;
+    font-weight: bold;
+    text-align: center;
+    width:700px;;
+    height:70px;
+     font-family:Kristen ITC;
+}
+
+.boton
+{
+    background-color: deeppink;
+    border-radius: 10px;   
+    color: white;
+    font-size: 16pt;
+    font-weight: bold;
+    text-align: center;  
+}
+
+.boton:hover
+{
+    background-color: white;
+    color: crimson;
+    width: 250px;
+}
+
+#reloj
+{
+    font-size: 80pt;
+}
+
+audio { 
+   display:none;
+}
